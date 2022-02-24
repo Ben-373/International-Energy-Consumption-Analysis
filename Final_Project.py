@@ -5,17 +5,6 @@ Created on Thu Dec  2 12:37:38 2021
 @author: 
 """
 
-# By submitting this assignment, I agree to the following: 
-#   "Aggies do not lie, cheat, or steal, or tolerate those who do." 
-#   "I have not given or received any unauthorized aid on this assignment." 
-# 
-# Name:        ********
-# Section:      565 
-# Assignment:   Final_Project.py
-# Date:          12/7/2021
-# 
-
-
 
 import matplotlib.pyplot as plt
 import numpy as np
